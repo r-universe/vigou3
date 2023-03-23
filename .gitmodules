@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "actuar"]
+	path = actuar
+	url = https://github.com/cran/actuar
+	shallow = true
+	registered = true
+[submodule "expint"]
+	path = expint
+	url = https://github.com/cran/expint
+	shallow = true
+	registered = true
+[submodule "roger"]
+	path = roger
+	url = https://github.com/cran/roger
+	shallow = true
+	registered = true
+[submodule "RweaveExtra"]
+	path = RweaveExtra
+	url = https://github.com/cran/RweaveExtra
+	shallow = true
+	registered = true
